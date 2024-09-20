@@ -4,7 +4,7 @@ Hi there, I'm Mohamed Hassan a software engineer with various stacks
 - 🌱 I’m currently learning CS 106
 - 📖 I'm currently reading Grokking Algorithms by Aditya Y. Bhargava
 - 👯 I’m looking to collaborate on large-scale systems and open-sources
-- 🎤 I'm an amateur sing (hobby) who likes to do some street photographing
+- 🎤 I'm an amateur singer (hobby) who also likes to do some street photographing
 - 😄 Fun fact: (Always replay within 20 minutes) guy, and e-Football (PES) local competition winner
 
 ## 🌐 Socials:

@@ -1,10 +1,11 @@
 # 💫 About Me:
-Hi there, I'm Mohamed Hassan a software engineer with various stacks<br>I'm currently working on a workflow app in ITSM criteria<br>I'm doing some freelance work or self-learning prototypes in my free time<br>I'd like to work on large-scale systems and see what's behind the scenes<br>I'm 25 years old with a passion for gaming and street photography<br>hidden talents: singing, awful drawings.
+Hi there, I'm Mohamed Hassan a software engineer with various stacks
 - 🔭 I’m currently working on working on a workflow app in ITSM criteria
 - 🌱 I’m currently learning CS 106
 - 📖 I'm currently reading Grokking Algorithms by Aditya Y. Bhargava
 - 👯 I’m looking to collaborate on large-scale systems and open-sources
-- 😄 Fun fact: (Always replay within 20 minutes) guy, can sing and e-Football (PES) local competition winner
+- 🎤 I'm an amateur sing (hobby) who likes to do some street photographing
+- 😄 Fun fact: (Always replay within 20 minutes) guy, and e-Football (PES) local competition winner
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.hassan432) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_hassan.t4kill) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hassan-🇵🇸-484329248) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mohamed-_-_hassan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12203176) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohamedhassa_n) 

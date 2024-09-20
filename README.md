@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Mohamed Hassan a software engineer with various stacks
 - 🔭 I’m currently working on a workflow app in ITSM criteria and small different freelance tasks
-- 🌱 I’m currently learning CS 106
+- 🌱 I’m currently learning CS107 - Programming Paradigms
 - 📖 I'm currently reading Grokking Algorithms by Aditya Y. Bhargava
 - 👯 I’m looking to collaborate on large-scale systems and open-sources
 - 🎤 I'm an amateur singer (hobby) who also likes to do some street photographing

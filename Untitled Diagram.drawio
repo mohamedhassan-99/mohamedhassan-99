@@ -137,6 +137,9 @@
             <mxPoint x="559.5799999999998" y="-19.999999999999982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="y-JBVXZGv05K-dpyjluo-35" value="Service-Based Architecture&lt;div&gt;And Event-Driven Architecture&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-157" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
